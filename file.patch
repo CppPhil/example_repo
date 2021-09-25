@@ -1,0 +1,10 @@
+diff --git a/git_example/main.cpp b/git_example/main.cpp
+index f3375d5..60cb1b6 100644
+--- a/git_example/main.cpp
++++ b/git_example/main.cpp
+@@ -4,4 +4,5 @@ int main()
+ {
+   std::cout << "Hello, World\n";
+   std::cout << "This is a test\n";
++  std::cout << "Yet another change\n";
+ }
